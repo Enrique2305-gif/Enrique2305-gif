@@ -6,9 +6,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Enrique Gabriel Rosado Alcivar
+* Ocupación: Estudiante de Ingenería de Computación
+* Lugar de residencia: 
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
