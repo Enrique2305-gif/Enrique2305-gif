@@ -15,7 +15,7 @@
 - **Nombre:** Enrique Gabriel Rosado Alcívar  
 - **Ocupación:** Estudiante de Ingeniería en Computación  
 - **Residencia:** Guayaquil, Ecuador  
-- **Sitio web:** [https://tusitioweb.com](https://enrique2305-gif.github.io/Enrique2305-gif/) 
+- **Sitio web:** [https://enrique2305-gif.github.io/Enrique2305-gif/](https://enrique2305-gif.github.io/Enrique2305-gif/) 
 - **Correo institucional:** [egrosado@espol.edu.ec](mailto:egrosado@espol.edu.ec)
 
 ---
