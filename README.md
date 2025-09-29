@@ -1,6 +1,6 @@
 # Mi Sitio Personal
 
-¡Bienvenido a mi sitio personal! Aquí encontrarás información sobre mí, mis proyectos y mis intereses relacionados con la ingeniería en computación.
+¡Bienvenido al sitio personal de Enrique Rosado! Aquí encontrarás información sobre mí, mis proyectos y mis intereses relacionados con la ingeniería en computación.
 
 ## Contenido
 
