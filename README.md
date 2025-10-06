@@ -24,15 +24,12 @@
 
 Aquí puedes ver algunos de mis proyectos más relevantes. Cada uno incluye una breve descripción, las tecnologías utilizadas y su estado actual.
 
-### 1. Nombre del Proyecto 1
+### 1. Proyecto de Estructura de Datos (Tic Tac Toe)
 
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** HTML, CSS, JavaScript, React
-- **Estado:** En desarrollo / Completado
-- **Repositorio:** [GitHub - Proyecto 1](https://github.com/usuario/proyecto1)
-- **Captura de pantalla:**
-  
-  ![Proyecto 1 Screenshot](ruta/a/la/captura1.png)
+- **Descripción:** El proyecto consiste en desarrollar una aplicación gráfica en JavaFX o Android Studio que permita jugar Tres en Raya contra la computadora, implementando estructuras de datos —como árboles n-arios— y el algoritmo minimax para dotar a la máquina de una estrategia inteligente de decisión.
+- **Tecnologías:** JavaScript, Screenbuilder
+- **Estado:** Completado
+- **Repositorio:** [GitHub - Proyecto 1](https://github.com/Enrique2305-gif/Proyecto_estructuras-final.git)
 
 ---
 
@@ -42,9 +39,15 @@ Aquí puedes ver algunos de mis proyectos más relevantes. Cada uno incluye una 
 - **Tecnologías:** Python, Flask, SQLite
 - **Estado:** Completado
 - **Repositorio:** [GitHub - Proyecto 2](https://github.com/usuario/proyecto2)
-- **Captura de pantalla:**
-  
-  ![Proyecto 2 Screenshot](ruta/a/la/captura2.png)
+
+---
+
+### 3. Nombre del Proyecto 3
+
+- **Descripción:** Breve descripción del proyecto.
+- **Tecnologías:** Python, Flask, SQLite
+- **Estado:** Completado
+- **Repositorio:** [GitHub - Proyecto 2](https://github.com/usuario/proyecto2)
 
 ---
 
@@ -54,6 +57,6 @@ Algunas áreas que me apasionan dentro de la ingeniería en computación:
 
 - Desarrollo web (frontend y backend)
 - Inteligencia Artificial y Machine Learning
-- Ciberseguridad
+- Electrónica
 - Desarrollo de videojuegos
-- Automatización y scripting
+- Robótica 
