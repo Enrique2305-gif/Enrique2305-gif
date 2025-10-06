@@ -24,7 +24,7 @@
 
 Aquí puedes ver algunos de mis proyectos más relevantes. Cada uno incluye una breve descripción, las tecnologías utilizadas y su estado actual.
 
-### 1. Proyecto de Estructura de Datos (Tic Tac Toe)
+### 1. Proyecto de Estructura de Datos **(Tic Tac Toe)**
 
 - **Descripción:** El proyecto consiste en desarrollar una aplicación gráfica en JavaFX o Android Studio que permita jugar Tres en Raya contra la computadora, implementando estructuras de datos —como árboles n-arios— y el algoritmo minimax para dotar a la máquina de una estrategia inteligente de decisión.
 - **Tecnologías:** JavaScript, Screenbuilder
@@ -33,12 +33,12 @@ Aquí puedes ver algunos de mis proyectos más relevantes. Cada uno incluye una 
 
 ---
 
-### 2. Nombre del Proyecto 2
+### 2. Proyecto de Programación Orientada a Objetos **(Juego de Domino)**
 
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** Python, Flask, SQLite
+- **Descripción:** Este repositorio ProyectoPOO implementa varios juegos (como Domino y Comodines) con interfaz gráfica en Java (usando FXML y controladores), gestionando el flujo de juego, fichas, usuarios y lógica mediante clases como Juego, Jugador y Utilitaria.
+- **Tecnologías:** JavaScript, Screenbuilder
 - **Estado:** Completado
-- **Repositorio:** [GitHub - Proyecto 2](https://github.com/usuario/proyecto2)
+- **Repositorio:** [GitHub - Proyecto 2](https://github.com/Enrique2305-gif/ProyectoPOO.git)
 
 ---
 
