@@ -42,12 +42,12 @@ Aquí puedes ver algunos de mis proyectos más relevantes. Cada uno incluye una 
 
 ---
 
-### 3. Nombre del Proyecto 3
+### 3. Proyecto de Matemáticas Discretas **(Circuito de Estacionamiento)**
 
-- **Descripción:** Breve descripción del proyecto.
-- **Tecnologías:** Python, Flask, SQLite
+- **Descripción:** Este proyecto simula un circuito de estacionamiento integrando hardware y software: utiliza Proteus para modelar el circuito eléctrico con Arduino, mientras que una interfaz gráfica en Python permite visualizar y controlar el sistema.
+- **Tecnologías:** Python, C++, C, Assembly
 - **Estado:** Completado
-- **Repositorio:** [GitHub - Proyecto 2](https://github.com/usuario/proyecto2)
+- **Repositorio:** [GitHub - Proyecto 3](https://github.com/Enrique2305-gif/DiscretasProyecto.git)
 
 ---
 
